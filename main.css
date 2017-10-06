@@ -1,0 +1,30 @@
+/*En css los comentarios deben ir así, no con doble slash.*/
+body {
+	text-align: center;
+	/*Sirve para alinear tanto texto como imagenes*/
+	font-family: 'Germania One', cursive;
+	background-color: #A4A4A4;
+
+}
+
+.banner {
+	background-color: #B43104;
+	font-family: 'Stalinist One', cursive;
+}
+
+p {
+	color: #FFFFFF;
+}
+.fondo-tool {
+	width: 1245px;
+	height: 550px;
+}
+
+.informacion {
+	color: #B43104;
+	padding-bottom: 40px;
+}
+
+.enlaces { /*haciendo el separador*/
+	border-top: 5px dotted white;
+}
